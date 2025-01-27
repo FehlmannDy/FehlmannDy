@@ -97,6 +97,8 @@ Relational database management system
   </a>
 </div>
 
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=40&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20in%20Switzerland&fontSize=14"/>
 </div>
