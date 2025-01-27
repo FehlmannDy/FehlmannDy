@@ -1,10 +1,16 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:191970&height=180&section=header&text=DYLAN+FEHLMANN&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header"/>
-</p>
+<!-- Header -->
+<div align="center">
+  <h1>
+    <a href="https://www.fehlmann.dev">
+      <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="40"/>
+      Dylan Fehlmann
+    </a>
+  </h1>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=FehlmannDy&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="Profile views"/>
-  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN]">
+  <a href="https://www.linkedin.com/in/dylan-fehlmann">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin"/>
   </a>
   <a href="mailto:contact@fehlmann.dev">
@@ -70,11 +76,8 @@ Relational database management system
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=FehlmannDy&show_icons=true&theme=radical"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=FehlmannDy&theme=radical"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FehlmannDy&layout=compact&theme=radical"/>
 </div>
-
-![Contribution Snake](https://github.com/FehlmannDy/FehlmannDy/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -97,6 +100,6 @@ Relational database management system
   </a>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:191970&height=120&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=40&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20in%20Switzerland&fontSize=14"/>
+</div>
