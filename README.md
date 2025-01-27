@@ -40,9 +40,6 @@
 ## 🚀 Key Projects
 
 ### 🌐 Web Development
-**[VRAC Apps](https://github.com/FehlmannDy/vracapps.ch)**  
-Full-stack web platform with authentication and inventory management  
-`React` `TypeScript` `NestJS` `MongoDB`
 
 **[Technical Blog](https://github.com/FehlmannDy/myblog)**  
 Static-generated blog with CI/CD pipeline  
