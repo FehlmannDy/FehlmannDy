@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/dylan-fehlmann">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin"/>
   </a>
-  <a href="mailto:contact@fehlmann.dev">
+  <a href="mailto:dylan@fehlmann.dev">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail"/>
   </a>
 </div>
@@ -94,9 +94,6 @@ Relational database management system
 <div align="center">
   <a href="https://www.fehlmann.dev">
     <img src="https://img.shields.io/badge/-Portfolio-4B0082?style=for-the-badge"/>
-  </a>
-  <a href="https://discord.com/users/[YOUR-ID]">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord"/>
   </a>
 </div>
 
