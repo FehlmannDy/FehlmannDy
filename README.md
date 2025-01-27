@@ -99,9 +99,3 @@ Relational database management system
     <img src="https://img.shields.io/badge/-Portfolio-4B0082?style=for-the-badge"/>
   </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=40&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20in%20Switzerland&fontSize=14"/>
-</div>
