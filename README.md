@@ -43,7 +43,7 @@
 
 **[Technical Blog](https://github.com/FehlmannDy/myblog)**  
 Static-generated blog with CI/CD pipeline  
-`Hugo` `Markdown` `GitHub Actions` `Netlify`
+`Hugo` `Markdown` `GitHub Actions`
 
 ### 🔌 Network Infrastructure
 **[HTTP Infrastructure Lab](https://github.com/FehlmannDy/dai-lab-http-infrastructure)**  
