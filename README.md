@@ -52,7 +52,7 @@ Custom HTTP client/server implementation with caching
 
 **[SMTP Lab](https://github.com/FehlmannDy/dai-lab-smtp)**  
 SMTP protocol implementation for email systems  
-`Java` `Mockito` `RFC 5321 Compliance`
+`Java` `RFC 5321 Compliance`
 
 ---
 
