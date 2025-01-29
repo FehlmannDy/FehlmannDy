@@ -45,6 +45,10 @@
 Static-generated blog with CI/CD pipeline  
 `Hugo` `Markdown` `GitHub Actions`
 
+**[BiasBinder-Frontend](https://github.com/hliosone/biasfinder-frontend)**
+Frontend for the API from "HTTP Infrastructure Lab"
+`ReactJS` `ViteJS` `Docker`
+
 ### 🔌 Network Infrastructure
 **[HTTP Infrastructure Lab](https://github.com/FehlmannDy/dai-lab-http-infrastructure)**  
 Custom HTTP client/server implementation with caching  
