@@ -45,14 +45,11 @@
 Static-generated blog with CI/CD pipeline  
 `Hugo` `Markdown` `GitHub Actions`
 
-**[BiasBinder-Frontend](https://github.com/hliosone/biasfinder-frontend)**<br>
+**[BiasBinder Frontend](https://github.com/hliosone/biasfinder-frontend)**<br>
 Frontend for the API from "HTTP Infrastructure Lab" <br>
 `React` `ViteJS` `Docker` <br>
 
 ### 🔌 Network Infrastructure
-**[HTTP Infrastructure Lab](https://github.com/FehlmannDy/dai-lab-http-infrastructure)**  
-Custom HTTP client/server implementation with caching  
-`Java` `Maven` `TCP/IP` `Multi-threading`
 
 **[SMTP Lab](https://github.com/FehlmannDy/dai-lab-smtp)**  
 SMTP protocol implementation for email systems  
@@ -62,9 +59,9 @@ SMTP protocol implementation for email systems
 
 ## 🎓 Academic Projects
 
-**[BiasFinder Frontend](https://github.com/hliosone/biasfinder-frontend)**  
-Algorithmic bias detection dashboard  
-`React` `Data Visualization` `Chart.js`
+**[HTTP Infrastructure Lab](https://github.com/FehlmannDy/dai-lab-http-infrastructure)**  
+Custom HTTP client/server implementation with caching  
+`Java` `Maven` `TCP/IP` `Multi-threading`
 
 **[Performance Modeling](https://github.com/hliosone/performance-modeling-data-analysis)**  
 System performance analysis toolkit  
