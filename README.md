@@ -1,4 +1,3 @@
-<!-- Header -->
 <div align="center">
   <h1>
     <a href="https://www.fehlmann.dev">
@@ -22,27 +21,35 @@
 
 ## 💻 Technical Skills
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+**Languages** ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 
-**Tools & Frameworks**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+**Tools & Frameworks** ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt)
+
+**Blockchain** ![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=flat-square&logo=blockchain&logoColor=white)
+![Flare](https://img.shields.io/badge/Flare-EA1662?style=flat-square&logo=blockchain&logoColor=white)
 
 ---
 
 ## 🚀 Key Projects
 
+### ⛓️ Blockchain & Security
+
+**[edelPay](https://github.com/Balkghar/edelPay)** 🏆 **2nd Prize - ETHOxford 2026 (Flare Track)** Decentralized payment solution built during the hackathon.  
+`Flare Network` `Solidity` `DeFi`
+
+**[SUI CTF ETHOxford](https://github.com/FehlmannDy/sui-CTF-ETHOxford)** 🔐 **All Challenges Solved** Complete solutions for the Capture The Flag security challenges on SUI.  
+`Sui` `Move` `Security` `CTF`
+
 ### 🌐 Web Development
 
-**[Technical Blog](https://github.com/FehlmannDy/myblog)**  
-Static-generated blog with CI/CD pipeline  
+**[Technical Blog](https://github.com/FehlmannDy/myblog)** Static-generated blog with CI/CD pipeline  
 `Hugo` `Markdown` `GitHub Actions`
 
 **[BiasBinder Frontend](https://github.com/hliosone/biasfinder-frontend)**<br>
@@ -51,42 +58,21 @@ Frontend for the API from "HTTP Infrastructure Lab" <br>
 
 ### 🔌 Network Infrastructure
 
-**[SMTP Lab](https://github.com/FehlmannDy/dai-lab-smtp)**  
-SMTP protocol implementation for email systems  
+**[SMTP Lab](https://github.com/FehlmannDy/dai-lab-smtp)** SMTP protocol implementation for email systems  
 `Java` `RFC 5321 Compliance`
 
 ---
 
 ## 🎓 Academic Projects
 
-**[HTTP Infrastructure Lab](https://github.com/FehlmannDy/dai-lab-http-infrastructure)**  
-Custom HTTP client/server implementation with caching  
+**[HTTP Infrastructure Lab](https://github.com/FehlmannDy/dai-lab-http-infrastructure)** Custom HTTP client/server implementation with caching  
 `Java` `Maven` `TCP/IP` `Multi-threading`
 
-**[Performance Modeling](https://github.com/hliosone/performance-modeling-data-analysis)**  
-System performance analysis toolkit  
+**[Performance Modeling](https://github.com/hliosone/performance-modeling-data-analysis)** System performance analysis toolkit  
 `Python` `Pandas` `Matplotlib` `Statistical Modeling`
 
-**[Database Project](https://github.com/HEIGVD-202409-BDR-C/project-fehlmann_halimi_stelcher)**  
-Relational database management system  
+**[Database Project](https://github.com/HEIGVD-202409-BDR-C/project-fehlmann_halimi_stelcher)** Relational database management system  
 `PostgreSQL` `Normalization` `SQL Optimization`
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FehlmannDy&show_icons=true&theme=radical"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FehlmannDy&layout=compact&theme=radical"/>
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FehlmannDy&theme=onedark&margin-w=15&column=7"/>
-</div>
 
 ---
 
