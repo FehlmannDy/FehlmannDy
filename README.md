@@ -43,7 +43,7 @@
 
 ### 🛡️ Security
 
-**[SUI CTF ETHOxford](https://github.com/FehlmannDy/sui-CTF-ETHOxford)** 🔐 **All Challenges Solved** Complete solutions for the Capture The Flag security challenges on SUI.  
+**[SUI CTF ETHOxford](https://github.com/FehlmannDy/sui-CTF-ETHOxford)** **All Challenges Solved** Complete solutions for the Capture The Flag security challenges on SUI.  
 `Sui` `Move` `Security` `CTF`
 
 **[SAST Semgrep](https://github.com/FehlmannDy/sast-semgrep)** Custom Static Application Security Testing rules implementation.  
