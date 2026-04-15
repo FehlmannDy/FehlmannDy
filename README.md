@@ -51,8 +51,14 @@
 
 ### ⛓️ Blockchain
 
-**[edelPay](https://github.com/Balkghar/edelPay)** 🏆 **2nd Prize - ETHOxford 2026 (Flare Track)** Decentralized payment solution built during the hackathon.  
+**[EdelPay](https://github.com/Balkghar/edelPay)** 🏆 **2nd Prize - ETHOxford 2026 (Flare Track)** Decentralized payment solution built during the hackathon.  
 `Flare Network` `Solidity` `DeFi`
+
+**[EdelPacta](https://github.com/FehlmannDy/EdelPacta)** 🏆 **1st Prize - BSA EPFL Stablecoins & Payments Hackathon** Smart escrow and atomic settlement solution for real estate and high-value assets.
+`XRPL` `WASM` `Digital Identity` `Smart Escrow`
+
+**[Edel402](https://github.com/Magicred-1/Ed4l02)** 🏆 **3rd Prize - HACK THE BLOCK 2026 (Paris Blockchain Week XRPL Hackathon)** Pay-per-call API infrastructure, on-chain. Built on the XRP Ledger. Powered by x402 
+`XRPL` `x402` `Flare Network` `Digital Identity`
 
 ### 🌐 Web Development
 
